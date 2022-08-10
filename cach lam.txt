@@ -21,4 +21,4 @@ sau đó mở menu trong đó có 7 lựa chọn:
 		chọn 3 để thay đổi đánh giá (1-5)
 	6. Xóa 1 video trong playList đó
 	7. Lưu và dừng chương trình
-Khi chọn các lựa chọn của menu thì trong file 'data.txt' cũng thay đổi theo 
+Khi chọn các lựa chọn của menu thì trong file 'data.txt' cũng thay đổi
