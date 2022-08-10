@@ -1,0 +1,24 @@
+PlayList (file text)
+dòng 1: tên của PlayList
+dòng 2: mô tả PlayList đó
+dòng 3: đánh gía PlayList đó
+dòng 4: số lượng video 
+	
+với mỗi video có 2 dòng: dòng đầu tên video
+			 dòng 2 là link của video đó
+
+----------------------------------------------------------
+code:
+đầu tiên là mở file 'data.txt'
+sau đó mở menu trong đó có 7 lựa chọn:
+	1. Tạo playList mới
+	2. Hiểu thị thông tin của playList đó ra
+	3. Chạy cái video bạn muốn mở trên YouTobe
+	4. Thêm 1 video mới vào playList 
+	5. Cập nhật thông tin playList 
+		chọn 1 nếu muốn update tên
+		chọn 2 nếu update mô tả playList
+		chọn 3 để thay đổi đánh giá (1-5)
+	6. Xóa 1 video trong playList đó
+	7. Lưu và dừng chương trình
+Khi chọn các lựa chọn của menu thì trong file 'data.txt' cũng thay đổi theo 
